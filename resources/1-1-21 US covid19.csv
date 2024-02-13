@@ -2,7 +2,6 @@ State/Territory,Total Cases,Confirmed Cases,Probable Cases,Cases in Last 7 Days,
 Alaska,44966,null,null,1605,6147,202,null,null,6,27,West
 Alabama,356820,287173,69647,22251,7277,4774,4174,600,187,97,South
 Arkansas,222430,null,null,14489,7371,3637,null,null,261,120,South
-American Samoa,3,null,null,0,5,0,null,null,0,0,Other
 Arizona,512489,488303,24186,39216,7041,8718,7892,826,539,119,West
 California,2218142,null,null,254066,5614,24958,null,null,1674,63,West
 Colorado,330859,317032,13827,14359,5745,4750,4111,639,288,82,West
@@ -10,9 +9,7 @@ Connecticut,183663,172907,10756,12958,5151,5964,4828,1136,228,167,Northeast
 District of Columbia,28758,null,null,1532,4075,780,null,null,29,110,South
 Delaware,56596,54292,2304,4361,5812,921,819,102,49,94,South
 Florida,1283701,null,null,69941,5977,21546,null,null,672,100,South
-Federated States of Micronesia,0,0,0,0,0,0,null,null,0,0,Other
 Georgia,654743,558177,96566,46453,6167,10846,9808,1038,327,102,South
-Guam,7308,null,null,42,4409,121,null,null,0,72,Other
 Hawaii,20851,null,null,667,1473,283,null,null,0,19,West
 Iowa,278959,null,null,7651,8842,3822,null,null,154,121,Midwest
 Idaho,139864,115850,24014,5879,7826,1403,1240,163,79,78,West
@@ -27,7 +24,6 @@ Maine,24188,20627,3561,2962,1799,344,339,5,27,25,Northeast
 Michigan,528621,488144,40477,20172,5293,13018,12333,685,603,130,Midwest
 Minnesota,413107,null,null,10588,7325,5321,5100,221,291,94,Midwest
 Missouri,388856,null,null,15276,6336,5491,null,null,236,89,Midwest
-Northern Mariana Islands,122,122,0,4,0,2,2,0,0,3,Other
 Mississippi,215811,147965,67846,13160,7251,4787,3825,962,231,160,South
 Montana,81300,81300,0,2778,7607,950,950,0,36,88,West
 North Carolina,532830,487967,44863,30616,5080,6729,6325,404,249,64,South
@@ -38,15 +34,12 @@ New Jersey,472264,null,null,27126,5317,18952,16931,2021,486,213,Northeast
 New Mexico,141186,null,null,7944,6733,2436,null,null,193,116,West
 Nevada,222594,null,null,12632,7227,3066,null,null,195,99,West
 New York,537345,null,null,50283,4861,12466,null,null,654,112,Northeast
-New York City,432179,381935,50244,29572,5146,25144,20332,4812,301,299,Northeast
 Ohio,690748,620181,70567,45926,5909,8855,8009,846,494,75,Midwest
 Oklahoma,297169,239767,57402,21074,7510,2496,2332,164,205,63,South
 Oregon,112260,110540,1720,6290,2662,1468,1453,15,65,34,West
 Pennsylvania,631333,567281,64052,50177,4932,15672,null,null,1230,122,Northeast
 Puerto Rico,76291,71650,4641,5483,2389,1503,1243,260,80,47,Other
-Palau,0,null,null,0,0,0,null,null,0,0,Other
 Rhode Island,87949,null,null,5883,8302,1777,null,null,73,167,Northeast
-Republic of Marshall Islands,4,4,0,0,7,0,null,null,0,0,Other
 South Carolina,303475,280024,23451,21245,5894,5249,4846,403,221,101,South
 South Dakota,98720,null,null,2680,11159,1464,1186,278,75,165,Midwest
 Tennessee,580809,509854,70955,39569,8505,6810,5923,887,430,99,South
